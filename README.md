@@ -4,4 +4,4 @@
 
 
 ## Last 7 Days Coding Time Stats
-[![Rayan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Rayan)](https://github.com/anuraghazra/github-readme-stats)
+[![Rayan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Rayan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
